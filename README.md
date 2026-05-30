@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Christine! Still somewhat new here.
+- 👋 Hi, I’m DoppelgangerVortex! Still somewhat new here.
 - 👀 I’m interested in video game lore, animation, and electroswing music!
 - 🌱 I’m currently learning C++, design programs and animations!
-- 📫 How to reach me: 📧christine.valdez2024@gmail.com
+- 📫 How to reach me: 📧doppelgangervortex@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like mozzarella cheese. 🧀
 <!---
